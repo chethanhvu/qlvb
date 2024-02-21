@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qlvb/static/css/main.faa75790.css",
+    "main.js": "/qlvb/static/js/main.45c95a57.js",
+    "static/js/592.99143612.chunk.js": "/qlvb/static/js/592.99143612.chunk.js",
+    "index.html": "/qlvb/index.html",
+    "main.faa75790.css.map": "/qlvb/static/css/main.faa75790.css.map",
+    "main.45c95a57.js.map": "/qlvb/static/js/main.45c95a57.js.map",
+    "592.99143612.chunk.js.map": "/qlvb/static/js/592.99143612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa75790.css",
+    "static/js/main.45c95a57.js"
+  ]
+}
